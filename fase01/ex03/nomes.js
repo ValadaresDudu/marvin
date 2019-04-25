@@ -1,7 +1,3 @@
-function nomes(n1,n2) {
-    
-    return (n1 + " e " + n2)
-    
-}
-
-
+function nomes(nome1, nome2) {
+    return nome1 + " e " + nome2;
+    }
