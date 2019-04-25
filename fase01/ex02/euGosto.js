@@ -1,4 +1,3 @@
-function euGosto(at) {
-    return ("Eu gosto de " + at)
-}
-
+function euGosto(atividade) {
+    return "Eu gosto de" + " " + atividade
+    }
